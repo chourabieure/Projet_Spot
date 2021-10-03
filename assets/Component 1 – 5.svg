@@ -1,0 +1,10 @@
+<svg id="Component_1_5" data-name="Component 1 – 5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="126" height="52.31" viewBox="0 0 126 52.31">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.159" y1="0.225" x2="0.922" y2="0.217" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8b68ff"/>
+      <stop offset="1" stop-color="#d9ceff"/>
+    </linearGradient>
+  </defs>
+  <path id="Subtraction_22" data-name="Subtraction 22" d="M122,52.31h0A28.766,28.766,0,0,0,93.336,24H13.781A12.062,12.062,0,0,1,2,12,12.015,12.015,0,0,1,13.853,0H82a39.967,39.967,0,0,1,40,40V52.309Z" transform="translate(122 52.31) rotate(180)" fill="url(#linear-gradient)"/>
+  <circle id="Ellipse_68" data-name="Ellipse 68" cx="8.25" cy="8.25" r="8.25" transform="translate(99 32.31)" fill="#fff"/>
+</svg>

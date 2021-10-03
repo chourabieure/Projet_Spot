@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="116" height="212" viewBox="0 0 116 212">
+  <defs>
+    <filter id="Rectangle_9" x="28" y="35" width="62" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_441" data-name="Group 441" transform="translate(-261.379 -497)">
+    <g id="Group_439" data-name="Group 439" transform="translate(261.379 497)">
+      <g id="Rectangle_7" data-name="Rectangle 7" transform="translate(0)" fill="#fff" stroke="#000" stroke-width="10">
+        <rect width="116" height="212" rx="18" stroke="none"/>
+        <rect x="5" y="5" width="106" height="202" rx="13" fill="none"/>
+      </g>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="63" height="17" rx="8.5" transform="translate(27 2)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 261.38, 497)" filter="url(#Rectangle_9)">
+      <rect id="Rectangle_9-2" data-name="Rectangle 9" width="44" height="45" rx="9" transform="translate(37 41)" fill="#fff"/>
+    </g>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="75" height="12" rx="4" transform="translate(283.379 598)"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="55" height="11" rx="4" transform="translate(292.379 616)"/>
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="78" height="20" rx="4" transform="translate(280.379 648)" fill="#8b68ff"/>
+  </g>
+</svg>

@@ -1,0 +1,3 @@
+background : #F7F5FF
+violet : #8B68FF
+black : #231A40
