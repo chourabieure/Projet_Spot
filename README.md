@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="./assets/logo_lunch.png" alt="Markdownify" width="200" style=" border-radius:40px">
+  <img src="./assets/logo_lunch.png" alt="Markdownify" width="200" style="border-radius:40px">
   <br>
   Projet Spot
   <br>
@@ -9,10 +9,6 @@
 
 <h4 align="center" >Mattis Simon | Yann Furrer | Juliette Ferey</h4>
 
-<p align="center">
-  [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
-
-</p>
 
 ## Key Features
 
