@@ -44,9 +44,7 @@ $ expo start
 This software uses the following open source packages:
 
 - [NodeJs](https://nodejs.org/)
-- [ExpressJs](https://expressjs.com/)
 - [Expo](https://docs.expo.dev/)
-- [PythoDB](https://www.mongodb.com/)
 
 
 
