@@ -10,7 +10,8 @@
 <h4 align="center" >Mattis Simon | Yann Furrer | Juliette Ferey</h4>
 
 <p align="center">
-  
+  [![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
 </p>
 
 ## Key Features
