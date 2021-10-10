@@ -17,7 +17,7 @@
   - Android and IOS.
 * RealTime localisation
 * Back-End :
-  - [Back-End](https://github.com/chourabieure/Projet_Spot_Back_End)
+  - [Api](https://github.com/chourabieure/Projet_Spot_Back_End)
 
 ## How To Use
 
