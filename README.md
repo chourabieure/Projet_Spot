@@ -16,6 +16,8 @@
 * Cross platform
   - Android and IOS.
 * RealTime localisation
+* Back-End :
+  - [Back-End](https://github.com/chourabieure/Projet_Spot_Back_End)
 
 ## How To Use
 
@@ -23,7 +25,6 @@ To clone and run this application, you'll need to install on your computer :
 * [Git](https://git-scm.com)
 * [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) 
 * [Expo](https://docs.expo.dev/)
-* [Back-End](https://github.com/chourabieure/Projet_Spot_Back_End)
 
 From your command line:
 
