@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center" >Mattis Simon | Yann Furrer | Juliette Ferey</h4>
-* [Back-End](https://github.com/chourabieure/Projet_Spot_Back_End)
+
 
 
 ## Key Features
@@ -23,6 +23,7 @@ To clone and run this application, you'll need to install on your computer :
 * [Git](https://git-scm.com)
 * [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) 
 * [Expo](https://docs.expo.dev/)
+* [Back-End](https://github.com/chourabieure/Projet_Spot_Back_End)
 
 From your command line:
 
